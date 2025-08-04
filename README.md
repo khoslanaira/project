@@ -28,8 +28,8 @@ An interactive perfume recommendation chatbot built with React, TypeScript, and 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/khoslanaira/project.git
+cd project
 ```
 
 2. Install dependencies:
@@ -56,4 +56,4 @@ This project is automatically deployed to GitHub Pages via GitHub Actions. Any p
 
 ## Live Demo
 
-Visit: https://YOUR_USERNAME.github.io/REPO_NAME/ 
+Visit: https://khoslanaira.github.io/project/ 
